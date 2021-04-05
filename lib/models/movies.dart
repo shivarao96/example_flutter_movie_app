@@ -31,9 +31,9 @@ List<Movie> movies = [
     poster: "assets/images/poster_1.jpg",
     backdrop: "assets/images/backdrop_1.jpg",
     numOfRatings: 150212,
-    rating: 7.3,
-    criticsReview: 50,
-    metaScoreRating: 76,
+    rating: 0.1,
+    criticsReview: 10,
+    metaScoreRating: 10,
     genre: ["Action", "Drama"],
     plot: plotText,
     actors: [
